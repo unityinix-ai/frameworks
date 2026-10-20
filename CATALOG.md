@@ -24,12 +24,7 @@ The philosophical core. The contradiction held: hollow yet held, impossible yet 
 ## 04 — AI Projects & Agent Collaborations
 **File:** `04-ai-projects/AI-PROJECTS.md`
 
-The applied index: Sevro (strategy), Tanjiro (intuition), 4th Hokage (vision), and the systems built with them — Paimon, the mobile agent lab, swarm research. Proof the frameworks ship real work.
-
-## 05 — Paimon, Emergency Summonable Entity
-**File:** `05-paimon/paimon.py`
-
-A persistent AI companion entity: long-term memory engine, 2-hour remembrance alarm daemon, summon/command interface. Working code, not theory.
+The applied index: Sevro (strategy), Tanjiro (intuition), 4th Hokage (vision), and the systems built with them — the mobile agent lab, swarm research. Proof the frameworks ship real work.
 
 ---
 
